@@ -27,4 +27,6 @@ $ Klw GK Ndak Bisa Install python2 GassKeun.py,
 $ python GassKeun.py
 
 *LOGIN MENGGUNAKAN COOKIES*
-    Ndan Ganteng 🗿
+   
+    
+     Ndan Ganteng 🗿
